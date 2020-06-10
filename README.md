@@ -6,7 +6,7 @@ Datastructures
   
   1)Arrays
   
-  2LinkedLists
+  2)LinkedLists
   
   3)Stacks
   
